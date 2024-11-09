@@ -18,6 +18,8 @@ int datatype() {
 	float floatNumber = 1.1f;
 	double doubleNumber = 3.3f;
 
+	// unsigned int
+	unsigned int a = 111111;
 
 	// 문자
 	// 컴퓨터는 어떻게 문자를 인식하는가?
@@ -33,6 +35,8 @@ int datatype() {
 	printf("doublenumber의 숫자는 %f 입니다.\f", doubleNumber);
 	printf("character의 기호는 %d 입니다.\f", character);
 
-	printf("Hello world1");
+	printf("Hello world1\n");
+	printf("%d" , a);
 
 }
+
