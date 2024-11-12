@@ -1,8 +1,8 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
-// ¿¬»êÀÚ ½Ç½À
+// ì—°ì‚°ì ì‹¤ìŠµ
 int main() {
-	// »ê¼ú ¿¬»ê
+	// ì‚°ìˆ  ì—°ì‚°
 	int a = 20;
 	int b = 10;
 
@@ -13,21 +13,33 @@ int main() {
 	// printf("%d %% %d = %d \n",a, b, a % b);
 
 
-	// ´ëÀÔ ¿¬»ê
-	printf("%d \n", a);
-	a += 10; // a = a + 10;
-	printf("%d \n", a);
-	a -= 10; // a = a - 10;
-	printf("%d \n", a);
-	a *= 10; // a = a * 10;
-	printf("%d \n", a);
-	a /= 10; // a = a / 10;
-	printf("%d \n", a);
-	a %= 10; // a = a % 10;
-	printf("%d \n", a);
+	// ëŒ€ì… ì—°ì‚°
+	// printf("%d \n", a);
+	// a += 10; // a = a + 10;
+	// printf("%d \n", a);
+	// a -= 10; // a = a - 10;
+	// printf("%d \n", a);
+	// a *= 10; // a = a * 10;
+	// printf("%d \n", a);
+	// a /= 10; // a = a / 10;
+	// printf("%d \n", a);
+	// a %= 10; // a = a % 10;
+	// printf("%d \n", a);
 
+	// ì¦ê° ì—°ì‚°
+	a++; // a = a + 1;
+	++a; // a = a + 1;
 
+	a--; // a = a - 1;
+	--a; // a = a - 1;
 
+	a = 0;
+	printf("%d \n", a++);
+	printf("%d \n", --a);
+	printf("%d \n", ++a);
+	printf("%d \n", a++);
+	printf("%d \n", a--);
+	printf("%d \n", --a);
 
 
 }
