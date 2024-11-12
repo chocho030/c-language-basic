@@ -33,13 +33,22 @@ int main() {
 	a--; // a = a - 1;
 	--a; // a = a - 1;
 
-	a = 0;
-	printf("%d \n", a++);
-	printf("%d \n", --a);
-	printf("%d \n", ++a);
-	printf("%d \n", a++);
-	printf("%d \n", a--);
-	printf("%d \n", --a);
+	// a = 0;
+	// printf("%d \n", a++);
+	// printf("%d \n", --a);
+	// printf("%d \n", ++a);
+	// printf("%d \n", a++);
+	// printf("%d \n", a--);
+	// printf("%d \n", --a);
+
+	// 관계 연산 (참, 거짓으로 출력)
+	// < > == != <= >=
+	printf("%d\n", a > b);
+	printf("%d\n",  a < b);
+	printf("%d\n", a == b);
+	printf("%d\n", a != b);
+	printf("%d\n", a >= b);
+	printf("%d\n", a <= b);
 
 
 }
