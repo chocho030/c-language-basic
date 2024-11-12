@@ -24,5 +24,8 @@
     <ClCompile Include="prob1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="operators.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
