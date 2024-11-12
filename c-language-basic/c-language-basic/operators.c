@@ -43,12 +43,20 @@ int main() {
 
 	// 관계 연산 (참, 거짓으로 출력)
 	// < > == != <= >=
-	printf("%d\n", a > b);
-	printf("%d\n",  a < b);
-	printf("%d\n", a == b);
-	printf("%d\n", a != b);
-	printf("%d\n", a >= b);
-	printf("%d\n", a <= b);
+	// printf("%d\n", a > b);
+	// printf("%d\n",  a < b);
+	// printf("%d\n", a == b);
+	// printf("%d\n", a != b);
+	// printf("%d\n", a >= b);
+	// printf("%d\n", a <= b);
+
+	// 논리 연산
+	// and, or, not (&& || !
+	// nor, nand, xor, xnor
+
+	printf("%d \n", 1 && 0);
+	printf("%d \n", 1 || 0);
+	printf("%d \n", !1);
 
 
 }
