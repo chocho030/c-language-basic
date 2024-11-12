@@ -54,9 +54,19 @@ int main() {
 	// and, or, not (&& || !
 	// nor, nand, xor, xnor
 
-	printf("%d \n", 1 && 0);
-	printf("%d \n", 1 || 0);
-	printf("%d \n", !1);
+	// printf("%d \n", 1 && 0);
+	// printf("%d \n", 1 || 0);
+	// printf("%d \n", !1);
 
+	// 삼항 연산
+	// ? :
+	// 조건 ? 출력1 : 출력2
+	printf("%d \n", 1 ? 12 : 7);
+	printf("%d \n", 0 ? 11 : 9);
+	printf("%d \n", 1 && 0 ? 12 : 7);
+	printf("%d \n", 0 || 1 ? 12 : 7);
+	printf("%d \n", !1 ? 12 : 7);
+	printf("%d \n", (1&& 0)|| 0 ? 12 : 7);
+	printf("%d \n", (1||1)&&(1&&0) ? 12 : 7);
 
 }
