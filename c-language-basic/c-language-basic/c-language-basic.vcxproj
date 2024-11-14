@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="datatype.c" />
     <ClCompile Include="index.c" />
+    <ClCompile Include="inputoutput.c" />
     <ClCompile Include="operators.c" />
     <ClCompile Include="prob1.c" />
   </ItemGroup>

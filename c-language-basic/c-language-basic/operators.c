@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 
 // 연산자 실습
-int main() {
+int operators() {
 	// 산술 연산
 	int a = 20;
 	int b = 10;
