@@ -11,7 +11,7 @@ int grade() {
 
 }
 
-int main() {
+int twoscan() {
 	int num1, num2;
 
 	scanf_s("%d %d", &num1, &num2);

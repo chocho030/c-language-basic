@@ -30,5 +30,11 @@
     <ClCompile Include="inputoutput.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prob2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="doubleloop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
