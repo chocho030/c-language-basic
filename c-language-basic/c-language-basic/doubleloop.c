@@ -109,7 +109,7 @@ int loop5() {
 	}
 }
 
-int main() {
+int loop5_1() {
 	int i = 1;
 	int j = 0;
 
@@ -125,3 +125,41 @@ int main() {
 	}
 }
 
+// 맨처음에 3글자 짜리 단어를 입력받고
+// 사용자가 1글자씩 입력을 받아서 모든 순차적으로 단어가 입력되었을때 탈출하는 프로그램
+// ex ) cat
+// a
+// b
+// c
+// a
+// t 
+// 탈출!
+
+
+int main() {
+
+	char num1, num2, num3;
+	scanf_s(" %c", &num1);
+	scanf_s(" %c", &num2);
+	scanf_s(" %c", &num3);
+
+	char num4 = 0;
+
+	while (num4 != num1) {
+		printf("입력 : ");
+		scanf_s("%c", &num4);
+		printf("\n");
+	}
+
+	while (num4 != num2) {
+		printf("입력 : ");
+		scanf_s("%c", &num4);
+		printf("\n");
+	}
+	while (num4 != num3) {
+		printf("입력 : ");
+		scanf_s("%c", &num4);
+		printf("\n");
+	}
+
+}
