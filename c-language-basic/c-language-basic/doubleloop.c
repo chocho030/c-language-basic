@@ -136,7 +136,7 @@ int loop5_1() {
 // ≈ª√‚!
 
 
-int main() {
+int loop6() {
 
 	char num1, num2, num3;
 	scanf_s(" %c", &num1);

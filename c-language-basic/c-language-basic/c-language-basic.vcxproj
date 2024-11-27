@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="datatype.c" />
     <ClCompile Include="doubleloop.c" />
+    <ClCompile Include="func.c" />
     <ClCompile Include="index.c" />
     <ClCompile Include="inputoutput.c" />
     <ClCompile Include="operators.c" />
