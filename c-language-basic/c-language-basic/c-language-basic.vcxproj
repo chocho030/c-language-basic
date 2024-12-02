@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array.c" />
     <ClCompile Include="datatype.c" />
     <ClCompile Include="doubleloop.c" />
     <ClCompile Include="func.c" />

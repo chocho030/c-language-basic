@@ -11,7 +11,7 @@ void evenOdd(int a);
 bool isEven(int a);
 bool isOdd(int a);
 
-int main() {
+int func() {
 	int x, y;
 	int result = 0;
 
