@@ -46,6 +46,33 @@ int main() {
 	// 배열 그래서 어떻게 응용하나요?
 	fiveAverageArray();
 
+	// 3명의 4개의 과목에 대한 전체 평균
+	// 2차원 배열
+	// 1차원 배열을 데이터로 가지고있는 배열
+	// 선언
+	int score[3][4] = {
+		{80,60,40,90},
+		{82,60,42,90},
+		{84,60,44,90},
+	};
+	printf("%d", score[1][2]); // 42
+	printf("%d", score[2][2]); // 44
+	printf("%d \n\n", score[0][3]); // 90
+	float sum = 0;
+	for (int i = 0; i < 3; i++) {
+		
+
+		for (int j = 0; j < 4; j++) {
+			sum += score[i][j];
+		}
+
+	}
+	float average = sum / 12;
+
+	printf("%f\n", average);
+
+	
+	
 	
 
 
