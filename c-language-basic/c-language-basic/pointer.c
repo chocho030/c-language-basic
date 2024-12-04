@@ -35,12 +35,13 @@ int pointer_2() {
 
 }
 
+// 포인터를 상수 선언 후 값 바꾸기
 int main() {
 	const int* ptr;
 	int num = 20;
 	ptr = &num;
 
-	// *ptr = 1;
+	// *ptr = 1; // 직접 바꾸는건 불가능
 
 	num = 10;
 
