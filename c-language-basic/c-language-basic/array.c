@@ -29,7 +29,7 @@ void fiveAverageArray() {
 }
 
 
-int main() {
+int arr() {
 	// 비효율적인 저장
 	fiveAverage();
 	// 배열!
