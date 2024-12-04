@@ -20,3 +20,29 @@ int pointer_1() {
 
 
 }
+
+// 이중 포인터
+int pointer_2() {
+	int* ptr;
+	int** dptr;
+	int num = 20;
+
+	ptr = &num;
+	dptr = &ptr;
+
+	printf("%d\n", *ptr);
+	printf("%d\n", **dptr);
+
+}
+
+int main() {
+	const int* ptr;
+	int num = 20;
+	ptr = &num;
+
+	// *ptr = 1;
+
+	num = 10;
+
+	printf("%d\n", *ptr);
+}
