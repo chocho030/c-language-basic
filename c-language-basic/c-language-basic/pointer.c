@@ -36,7 +36,7 @@ int pointer_2() {
 }
 
 // 포인터를 상수 선언 후 값 바꾸기
-int main() {
+int pointer_3() {
 	const int* ptr;
 	int num = 20;
 	ptr = &num;
