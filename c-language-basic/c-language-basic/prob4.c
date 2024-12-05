@@ -31,7 +31,7 @@ int review3() {
 // 실행결과 추론
 // 20, 20
 
-int main() {
+int review4() {
 	int x = 100;
 	int* ptr = &x;
 	*ptr += 50;

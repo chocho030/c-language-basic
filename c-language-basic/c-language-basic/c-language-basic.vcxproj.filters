@@ -51,5 +51,8 @@
     <ClCompile Include="prob4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointerarray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

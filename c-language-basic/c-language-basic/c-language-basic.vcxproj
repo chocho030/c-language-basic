@@ -135,6 +135,7 @@
     <ClCompile Include="inputoutput.c" />
     <ClCompile Include="operators.c" />
     <ClCompile Include="pointer.c" />
+    <ClCompile Include="pointerarray.c" />
     <ClCompile Include="prob1.c" />
     <ClCompile Include="prob2.c" />
     <ClCompile Include="prob3.c" />
