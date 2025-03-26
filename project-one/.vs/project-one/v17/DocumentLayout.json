@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\c-language-basic\\project-one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|C:\\git\\c-language-basic\\project-one\\project-one\\\uBC18\uBCF5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|solutionrelative:project-one\\\uBC18\uBCF5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|C:\\git\\c-language-basic\\project-one\\project-one\\up_down.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|solutionrelative:project-one\\up_down.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|C:\\git\\c-language-basic\\project-one\\project-one\\rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|solutionrelative:project-one\\rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|C:\\git\\c-language-basic\\project-one\\project-one\\helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64B2B56F-035D-4196-A2D9-1D9261FA0B03}|project-one\\project-one.vcxproj|solutionrelative:project-one\\helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "up_down.c",
+              "DocumentMoniker": "C:\\git\\c-language-basic\\project-one\\project-one\\up_down.c",
+              "RelativeDocumentMoniker": "project-one\\up_down.c",
+              "ToolTip": "C:\\git\\c-language-basic\\project-one\\project-one\\up_down.c",
+              "RelativeToolTip": "project-one\\up_down.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T06:17:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rand.c",
+              "DocumentMoniker": "C:\\git\\c-language-basic\\project-one\\project-one\\rand.c",
+              "RelativeDocumentMoniker": "project-one\\rand.c",
+              "ToolTip": "C:\\git\\c-language-basic\\project-one\\project-one\\rand.c",
+              "RelativeToolTip": "project-one\\rand.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T05:55:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uBC18\uBCF5.c",
+              "DocumentMoniker": "C:\\git\\c-language-basic\\project-one\\project-one\\\uBC18\uBCF5.c",
+              "RelativeDocumentMoniker": "project-one\\\uBC18\uBCF5.c",
+              "ToolTip": "C:\\git\\c-language-basic\\project-one\\project-one\\\uBC18\uBCF5.c",
+              "RelativeToolTip": "project-one\\\uBC18\uBCF5.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T03:36:12.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "helloworld.c",
+              "DocumentMoniker": "C:\\git\\c-language-basic\\project-one\\project-one\\helloworld.c",
+              "RelativeDocumentMoniker": "project-one\\helloworld.c",
+              "ToolTip": "C:\\git\\c-language-basic\\project-one\\project-one\\helloworld.c",
+              "RelativeToolTip": "project-one\\helloworld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T02:15:50.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
